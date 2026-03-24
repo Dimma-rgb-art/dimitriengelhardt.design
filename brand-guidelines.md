@@ -96,6 +96,8 @@ Text Muted            #444444   Sehr zurückhaltend, dekorativ
 3. **Sichtbare Struktur** — Grids und Linien als gestalterisches Mittel
 4. **Signal im Rauschen** — Akzent sparsam, dafür wirkungsvoll
 5. **Craft-Qualität** — Jedes Detail ist eine Entscheidung
+6. **Skills** – Nutze die skills frontend-design und ui-ux-pro-max
+7. **Planung** – Erstelle vorher einen Plan und frage ob ich alles für gut befinde
 
 ---
 
