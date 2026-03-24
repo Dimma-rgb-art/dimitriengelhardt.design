@@ -97,7 +97,15 @@ Text Muted            #444444   Sehr zurückhaltend, dekorativ
 4. **Signal im Rauschen** — Akzent sparsam, dafür wirkungsvoll
 5. **Craft-Qualität** — Jedes Detail ist eine Entscheidung
 6. **Skills** – Nutze die skills frontend-design und ui-ux-pro-max
-7. **Planung** – Erstelle vorher einen Plan und frage ob ich alles für gut befinde
+7. **Planung** – Erstelle vorher einen Plan und nutze AskUserQuestion tool, um den user zu interviewen
+8. **Ai design** – Keine generische AI-Aesstethics
+
+---
+
+## Tech Stack
+
+1. Next.js 15 + TypeScript + Tailwind CSS
+2. framer motion für Animationen
 
 ---
 
