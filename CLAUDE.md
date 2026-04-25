@@ -11,8 +11,7 @@ Nutze immer diese Skills bei Design- und UI-Aufgaben:
 - `ui-ux-pro-max`
 
 ## Brand-Kurzreferenz
-- **Farben:** `#080808` bg · `#FF3D00` accent · `#F2EDE4` text
-- **Fonts:** Space Grotesk (display) · Inter (body) · JetBrains Mono (labels)
+
 - **Radius:** 0–2px — keine Rundungen
 - **Ton:** Knapp, direkt, deutsch — kein Marketing-Jargon
 - **Akzent:** Sparsam einsetzen, maximale Wirkung
